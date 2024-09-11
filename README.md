@@ -4,25 +4,26 @@
 
 Welcome to my corner of GitHub! I'm passionate about creating engaging user experiences and constantly expanding my tech skills.
 
-### 🚀 What I'm all about:
+### Skills and Technologies
+Programming Languages: C++, JavaScript, HTML, CSS, Python, Pentesting, Figma.
 
-- 🎨 **Frontend Development**: Crafting beautiful, responsive websites that users love
-- 🖌️ **UI/UX Design**: Merging aesthetics with functionality for intuitive interfaces
-- 🔒 **Cybersecurity**: Keeping digital spaces safe and secure
+Frameworks: Bootstrap,jQuery
 
-### 🛠️ My Toolbox:
+Tools: Git, VS Code
 
-- Frontend: HTML, CSS, JavaScript (feel free to add specific frameworks you use)
-- UI/UX: (Add your preferred design tools, e.g., Figma, Adobe XD)
-- Cybersecurity: (Mention any relevant tools or certifications)
+Education
+Cybersecured India | Cybersecurity Bootcamp | (May 2024 - Present)
+ISC2   |  Cybersecurity Certificate | (2024)
+
+Vephla Software Institute | Fontend Engineering | (Dec 2024 - Present)
+
+Alt Africa | Frontend Engineering Bootcamp | (Oct 2024 – Present)
+
+National Open Univerity of Nigeria | Bachelors of Science in Computer Science | (Sep 2021 - July 2025)
 
 ### 🌱 Current Focus:
 
 I'm on a journey to become a full stack developer! Currently expanding my backend skills to complement my frontend expertise.
-
-### 💼 Featured Project:
-
-Check out my Repositories It showcases my skills in frontend development, UI/UX design, and highlights my dedication to cybersecurity.
 
 ### 📚 When I'm not coding...
 
