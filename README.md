@@ -5,19 +5,30 @@
 Welcome to my corner of GitHub! I'm passionate about creating engaging user experiences and constantly expanding my tech skills.
 
 ### Skills and Technologies
+
 Programming Languages: C++, JavaScript, HTML, CSS, Python, Pentesting, Figma.
 
 Frameworks: Bootstrap,jQuery
 
-Tools: Git, VS Code
+Tools: Git, VS Code.
 
-Education
+
+Certifications 
+
 Cybersecured India | Cybersecurity Bootcamp | (May 2024 - Present)
+
 ISC2   |  Cybersecurity Certificate | (2024)
+
+CWW Tech Africa | Cybersecurity Certificate ( Sep 2024 - Dec 2024 )
+
+Zidio Institute | Web Development Certificate | ( April 2024 - July 2024 )
 
 Vephla Software Institute | Fontend Engineering | (Dec 2024 - Present)
 
 Alt Africa | Frontend Engineering Bootcamp | (Oct 2024 – Present)
+
+
+Education
 
 National Open Univerity of Nigeria | Bachelors of Science in Computer Science | (Sep 2021 - July 2025)
 
