@@ -1,27 +1,24 @@
-<h1 align="center"> Yo programo luego existo. 👨‍💻 </h1>
+<h1 align="center"> Je programme, donc j'existe. 👨‍💻 </h1>
  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Jehoshaphat+Martins;Passionate+Problem+Solver;👩‍💻+++Front-End+Developer;Software+Engineer;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi,+I'm+Blessing+James;Passionate+Problem+Solver;👩‍💻+++Front-End+Developer;Software+Engineer;Freelancer;Open-Source+Enthusiast" alt="Headline" />
  </div>
 
  <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesongmartins&label=Profile%20views&color=0e75b6&style=flat" alt="thesongmartins" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahsbaby&label=Profile%20views&color=0e75b6&style=flat" alt="jahsbaby" /></p>
 
-<p align="left"> <a href="https://twitter.com/thesongmartins" target="blank"><img src="https://img.shields.io/twitter/follow/thesongmartins?logo=twitter&style=for-the-badge" alt="thesongmartins" /></a> </p>
+<p align="left"> <a href="https://x.com/Blessin86996687" target="blank"><img src="https://img.shields.io/twitter/follow/jahsbaby?logo=twitter&style=for-the-badge" alt="jahsbaby" /></a> </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - 👩‍💻 Full stack developer (in the making)
 
-- 🔭 I just concluded my Final [**Portfolio Project**](https://github.com/Pcosby5/DaaviSpecial-backend/)
-
-- 💬 Currently part of **The 100 days of ALXSE challenge**
+- 🔭 I just concluded my Final [**Portfolio Project**](https://portfolio-bay-eight-58.vercel.app/)
 
 - 👯 I want to collaborate on open-source projects and frontend application development.
 
-- 🙇‍♀️ I'm a Christian and a lover of God.
 
-- 📫 My Email: **martinsjehoshaphat@gmail.com**
+- 📫 My Email: **blessingjames1047@gmail.com**
 
 - 😂 Here is a random joke that'll make you laugh!
 
@@ -29,8 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/thesongmartins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesongmartins" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/thesongmartins/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesongmartins" height="30" width="40" /></a>
+<a href="https://x.com/Blessin86996687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahsbaby" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/blessing-james-akanimoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahsbaby" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -67,19 +64,19 @@
 
 <h3 align=left>My GitHub Stats</h3>
  <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesongmartins&theme=algolia" alt="thesongmartins" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahsbaby&theme=algolia" alt="jahsbaby" />
 </p>
 
 <p align="left">
-   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thesongmartins&layout=compact&langs_count=8&theme=algolia" alt="Song Martins" />
+   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahsbaby&layout=compact&langs_count=8&theme=algolia" alt="jahsbaby" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thesongmartins&theme=algolia&show_icons=true&count_private=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahsbaby&theme=algolia&show_icons=true&count_private=true&hide_title=true)
 
 ## Stargazers
 
-[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=thesongmartins&repo=thesongmartins&theme=algolia)]()
+[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=jahsbaby&repo=jahsbaby&theme=algolia)]()
 
-Leave a ⭐ from [here](https://github.com/thesongmartins/thesongmartins) if you like 😁
+Leave a ⭐ from [here](https://github.com/jahsbaby) if you like 😁
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesongmartins&theme=high-contrast&height=250&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph">
