@@ -39,7 +39,7 @@
   <img loading="lazy" height="40" width="40" title="Html" src="https://cdn.simpleicons.org/html5/E34F26" alt="html5 icon" />
   <img loading="lazy" height="40" width="40" title="CSS" src="https://cdn.simpleicons.org/css3/1572B6" alt="css3 icon" />
   <img loading="lazy" height="40" width="40" title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript icon" />
-  <img loading="lazy" height="40" width="40" title="React" src="https://cdn.simpleicons.org/react/#FF00FF" alt="React icon" />
+  <img loading="lazy" height="40" width="40" title="React" src="https://cdn.simpleicons.org/react/FF0FF" alt="React icon" />
 </p>
 
 <h3 align="left">Tools:</h3>
