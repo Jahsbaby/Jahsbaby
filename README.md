@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://x.com/Blessin86996687" target="blank"><img src="https://img.shields.io/twitter/follow/jahsbaby?logo=twitter&style=for-the-badge" alt="jahsbaby" /></a> </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://photos.google.com/search/_m8_Favorites/photo/AF1QipN51JaH37Evw_0QkrxOunzE9maepxkg1RwAVqUo" width = 50px></picture> **About me**
 
-- 👩‍💻 Full stack developer (in the making)
+- 👩‍💻 Budding Full stack developer
 
 - 🔭 I just concluded my Final [**Portfolio Project**](https://portfolio-bay-eight-58.vercel.app/)
 
