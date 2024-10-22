@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahsbaby&label=Profile%20views&color=0e75b6&style=flat" alt="jahsbaby" /></p>
 
-<p align="left"> <a href="https://x.com/Blessin86996687" target="blank"><img src="https://img.shields.io/twitter/follow/jahsbaby?logo=twitter&style=for-the-badge" alt="jahsbaby" /></a> </p>
+<p align="left"> <a href="https://medium.com/@blessingjames1047" target="blank"><img src="https://img.shields.io/medium/follow/blessing?logo=medium&style=for-the-badge" alt="blessing" /></a> </p>
 
-## <picture><img src = "https://photos.google.com/search/_m8_Favorites/photo/AF1QipN51JaH37Evw_0QkrxOunzE9maepxkg1RwAVqUo" width = 50px></picture> **About me**
+**About me**
 
 - 👩‍💻 Budding Full stack developer
 
