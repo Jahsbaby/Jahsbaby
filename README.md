@@ -5,9 +5,9 @@
 
  <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahsbaby&label=Profile%20views&color=0e75b6&style=flat" alt="jahsbaby" /></p>
+<p align="left"> <img src="https://www.google.com/imgres?q=a%20frontend%20dev%20logo%20png&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20231005%2Foriginal%2Fpngtree-monochrome-icon-for-frontend-development-logo-web-design-infographics-vector-png-image_12962608.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fmonochrome-icon-for-frontend-development-logo-web-design-infographics-vector_12962608.html&docid=iYPc6GHGXOtpRM&tbnid=8YHpzIRhrHIxXM&vet=12ahUKEwjdmN-g_bCJAxVfXUEAHffUJj0QM3oECBkQAA..i&w=1200&h=752&hcb=2&ved=2ahUKEwjdmN-g_bCJAxVfXUEAHffUJj0QM3oECBkQAA" alt="jahsbaby" /></p>
 
-<p align="left"> <a href="https://medium.com/@blessingjames1047" target="blank"><img src="" alt="blessing" /></a> </p>
+<p align="left"> <a href="https://medium.com/@blessingjames1047" target="blank"><img src="https://www.google.com/imgres?q=a%20frontend%20dev%20logo%20png&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20231005%2Foriginal%2Fpngtree-monochrome-icon-for-frontend-development-logo-web-design-infographics-vector-png-image_12962608.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fmonochrome-icon-for-frontend-development-logo-web-design-infographics-vector_12962608.html&docid=iYPc6GHGXOtpRM&tbnid=8YHpzIRhrHIxXM&vet=12ahUKEwjdmN-g_bCJAxVfXUEAHffUJj0QM3oECBkQAA..i&w=1200&h=752&hcb=2&ved=2ahUKEwjdmN-g_bCJAxVfXUEAHffUJj0QM3oECBkQAA" alt="blessing" /></a> </p>
 
 **About me**
 
