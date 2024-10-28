@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://medium.com/@blessingjames1047" target="blank"><img src="👨‍💻" alt="blessing" /></a> </p>
+<p align="left"> <a href="https://medium.com/@blessingjames1047" target="blank">👨‍💻</a> </p>
 
 **About me**
 
